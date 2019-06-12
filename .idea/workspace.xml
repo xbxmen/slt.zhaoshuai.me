@@ -43,20 +43,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
-              <caret line="72" column="10" lean-forward="true" selection-start-line="72" selection-start-column="10" selection-end-line="72" selection-end-column="10" />
+              <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/ami.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1744">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="17">
+              <caret line="1" selection-end-line="107" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -78,14 +78,17 @@
       <find>sll4</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/js/push1.js" />
-        <option value="$PROJECT_DIR$/css/ami.css" />
         <option value="$PROJECT_DIR$/test.html" />
         <option value="$PROJECT_DIR$/js/push2.js" />
         <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/css/ami.css" />
       </list>
     </option>
   </component>
@@ -95,6 +98,7 @@
     <option name="width" value="1920" />
     <option name="height" value="1009" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -107,11 +111,6 @@
             <path>
               <item name="slt.zhaoshuai.me" type="b2602c69:ProjectViewProjectNode" />
               <item name="slt.zhaoshuai.me" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="slt.zhaoshuai.me" type="b2602c69:ProjectViewProjectNode" />
-              <item name="slt.zhaoshuai.me" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="slt.zhaoshuai.me" type="b2602c69:ProjectViewProjectNode" />
@@ -152,19 +151,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1560306330226</updated>
-      <workItem from="1560306331540" duration="1666000" />
+      <workItem from="1560306331540" duration="2167000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1666000" />
+    <option name="totallyTimeSpent" value="2167000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16240682" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16240682" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
@@ -207,13 +205,6 @@
     <entry file="file://$PROJECT_DIR$/images/background.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/ami.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1744">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/push1.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -237,7 +228,14 @@
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
-          <caret line="72" column="10" lean-forward="true" selection-start-line="72" selection-start-column="10" selection-end-line="72" selection-end-column="10" />
+          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/ami.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-end-line="107" selection-end-column="2" />
         </state>
       </provider>
     </entry>
