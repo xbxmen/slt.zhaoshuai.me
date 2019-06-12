@@ -595,6 +595,11 @@ iframe {
 
 }
 
+.ad {
+    text-align: center;
+    padding: 1em;
+}
+
 /* To fixed position the ad: */
 /*
 #carbonads { 

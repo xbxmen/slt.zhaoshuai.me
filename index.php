@@ -9,12 +9,6 @@
           content="网站缩略图在线生成工具站（ShrinkTheWeb，简称STW）是一个强大实用的免费网站缩略图在线生成服务站，它能够在短短的几秒钟内，透过您所输入的网址请求，产生该网站或网页的缩图。"/>
     <meta content="在线生成网站多设备缩略图" name="description">
     <link href="./css/ami.css?v=23022013" rel="stylesheet">
-    <style>
-        .ad {
-            text-align: center;
-            padding: 1em;
-        }
-    </style>
     <!-- IE8 BugFixes thanks to @ingozoell details arehttps://github.com/justincavery/am-i-responsive/issues/2?utm_source=buffer&utm_campaign=Buffer&utm_content=buffer8b8d6&utm_medium=twitter -->
     <!--[if IE 8]>
     <style>
